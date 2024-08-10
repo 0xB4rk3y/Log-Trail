@@ -38,26 +38,39 @@ Difficulty: <font color='Blue'>Very Easy</font>
 
 · Begin by opening the provided .txt file in Notepad. The file's format resembles a Windows Registry export, which is a clue about its content.
 
+
+
 ## 2-Recognize the Format:
 
 · The file's style indicates it was originally a registry file, so treat it as such. This hint is reinforced by the challenge's name, "Event Trail," suggesting an association with event logs.
 
+
+
 ## 3-Initial Search:
 
 · Using Ctrl + F, search for the path       HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Eventlog within the text file. This is a common path for event logs in the Windows Registry.
+
+
 
 ## 4-Find the Hint:
 
 ·During your search, you will come across a clue flag. The clue will indicate that after 
      using Ctrl + F, you need to append \hackthebox to your search query.
 
+
+
 ## 5-Modify the Search Query:
 
 · Update your search to include \hackthebox at the end of the path. For example, search   for HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Eventlog\hackthebox.
 
+
+
 ## 6-Locate the Flag:
 
 · Once you perform the modified search, you should find the flag within the text file. This completes the challenge.
+
+
+
 
 
 By following these steps, you utilize the provided hints effectively to navigate through the file and uncover the hidden flag.

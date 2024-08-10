@@ -1,6 +1,6 @@
 ![img](assets/banner.png)
 
-<img src='assets/htb.png' style='zoom: 60%;' align=left /> <font size='25'>Log Trail</font>
+<img src='assets/htb.png' style='zoom: 10%;' align=left /> <font size='25'>Log Trail</font>
 
 10<sup>th</sup> August 2024
 

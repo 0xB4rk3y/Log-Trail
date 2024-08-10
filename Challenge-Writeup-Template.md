@@ -1,6 +1,6 @@
 ![img](assets/banner.png)
 
-<img src='assets/htb.png' style='zoom: 10%;' align=left /> <font size='25'>Log Trail</font>
+<img src='assets/htb.png' style='zoom: 60%;' align=left /> <font size='25'>Log Trail</font>
 
 10<sup>th</sup> August 2024
 
@@ -20,7 +20,7 @@ Difficulty: <font color='Blue'>Very Easy</font>
 
 
 
-# Synopsis
+Synopsis
 
 - In this challenge, participants are required to uncover a hidden flag by exploring the Windows Registry. The flag is located within a specific registry path that needs to be adjusted based on a provided hint.
 
